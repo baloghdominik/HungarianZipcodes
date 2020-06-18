@@ -8,16 +8,10 @@ Másold ki az SQL kódot, illszed be és kész is az adatbázisod, Így nem kell
 #zipcodes #postalcodes #citynames
 
 id, city, zipcode,
-
 1, 'Aba', 8127,
-
 2, 'Abádszalók', 5241,
-
 3, 'Abaliget', 7678,
-
 4, 'Abasár', 3261,
-
 5, 'Abaújalpár', 3882,
-
 ....
 
